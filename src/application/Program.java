@@ -12,6 +12,5 @@ public class Program {
         Seller seller = new Seller(2, "milton", "milton@gmail.com", new Date(), 5000.00, department);
 
         System.out.println(seller);
-
     }
 }
